@@ -56,9 +56,9 @@ This CRM system is designed to facilitate the management of customer inquiries a
 
 ## Github Repositories
 
-Frontend Link : 
+Frontend Link : https://github.com/shaibuhan/CRM-frontend-code
 
-Backend Link : 
+Backend Link : https://github.com/shaibuhan/CRM-backend-code.git
 
 # Credentials to try out the app :
 
